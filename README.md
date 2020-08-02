@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```
-![Visitor Count](https://profile-counter.glitch.me/Aravindhsiva/count.svg)
-```
+![Aravindhsiva's github stats](https://github-readme-stats.vercel.app/api?username=Aravindhsiva&show_icons=true&theme=radical)
