@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Experience component](https://readme-components.vercel.app/api?component=experience&company=cratosys)](https://aravindhsiva.github.io)
+
 ![Aravindhsiva's github stats](https://github-readme-stats.vercel.app/api?username=Aravindhsiva&show_icons=true&theme=radical)
