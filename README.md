@@ -1,21 +1,21 @@
 ## Hi, I'm AravindhSiva! <img src="https://media.giphy.com/media/2QpnSwLwr9fkDtiN4m/giphy.gif" width="50"></h2>
- 
- Software Engineer Grade 1 @cratosys<br>
- FreeLancer. ✨ <br>
- FullStack Cloud Enthusiast. ☁
- <br>
 
-- 🔭 I’m currently working on ... React, Node js, Spring Reactor. 🐱‍👤
-- ⚡ Fun fact: ... Loves Briyani 🍗| SuperCell Fan 🎮 | Loves Driving 🏎 🏍 
- <br>
+Software Engineer @cratosys<br>
+FreeLancer. ✨ <br>
+FullStack Cloud Enthusiast. ☁
+<br>
 
-## ✍ My Work
+- 🔭 Actively working on React, Node js, Spring Reactor. 🐱‍👤
+- ⚡ Fun fact: Loves Briyani 🍗| SuperCell Fan 🎮 | Loves Driving 🏎 🏍
+  <br>
+
+## ✍ Nerd Stats
 
 ![Aravindh's github stats](https://github-readme-stats.vercel.app/api?username=Aravindhsiva&show_icons=true&theme=dark)
+<br/>
 [![Aravindh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindhsiva&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-
-## 📚 My Skills
+## 📚 Worked in
 
 ![Skill](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Skill](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -41,7 +41,7 @@
 ![Skill](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Skill](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-## ❤ Connect http://ForTheBadge.com/images/badges/built-with-love.svg
+## ❤ Connect
 
 <a href="https://www.linkedin.com/in/aravindhsiva/">
   <img align="left" alt="Aravindh's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
@@ -54,3 +54,4 @@
 <a href="https://www.instagram.com/aravindh_siva/">
   <img align="left" alt="Aravindh's Instagram" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>
 </a>
+![Love](https://forthebadge.com/images/badges/built-with-love.svg)
