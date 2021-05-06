@@ -1,6 +1,6 @@
-## Hi, I'm AravindhSiva! <img src="https://media.giphy.com/media/2QpnSwLwr9fkDtiN4m/giphy.gif" width="50"></h2>
+## Hi, I'm AravindhSiva! <img src="https://media.giphy.com/media/38UAxTNP9gtq9hSH8f/giphy.gif" width="50"></h2>
 
-Software Engineer @cratosys<br>
+Software Engineer @cratosys🎯 <br>
 FreeLancer. ✨ <br>
 FullStack Cloud Enthusiast. ☁
 <br>
@@ -13,7 +13,6 @@ FullStack Cloud Enthusiast. ☁
 
 ![Aravindh's github stats](https://github-readme-stats.vercel.app/api?username=Aravindhsiva&show_icons=true&theme=dark)
 <br/>
-[![Aravindh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindhsiva&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📚 Worked in
 
@@ -54,5 +53,6 @@ FullStack Cloud Enthusiast. ☁
 <a href="https://www.instagram.com/aravindh_siva/">
   <img align="left" alt="Aravindh's Instagram" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>
 </a>
+<br/><br/>
 
 ![Skill](https://forthebadge.com/images/badges/built-with-love.svg)
