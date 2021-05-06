@@ -53,5 +53,7 @@ FullStack Cloud Enthusiast. ☁
 <a href="https://www.instagram.com/aravindh_siva/">
   <img align="left" alt="Aravindh's Instagram" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>
 </a>
+
 <br/><br/>
-<span style="display:block;text-align:center">![Skill](https://forthebadge.com/images/badges/built-with-love.svg)</span>
+
+![Skill](https://forthebadge.com/images/badges/built-with-love.svg)
