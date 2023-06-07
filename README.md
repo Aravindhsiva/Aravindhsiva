@@ -1,11 +1,11 @@
 ## Hi, I'm AravindhSiva! <img src="https://media.giphy.com/media/38UAxTNP9gtq9hSH8f/giphy.gif" width="50"></h2>
 
-Software Engineer @cratosys🎯 <br>
-FreeLancer. ✨ <br>
+Software Engineer @unitedhealthcare🎯 <br>
+I do FreeLance. ✨ <br>
 FullStack Cloud Enthusiast. ☁
 <br>
 
-- 🔭 Actively working on React, Node js, Spring Reactor. 🐱‍👤
+- 🔭 Actively working on Flutter, ReactJs, Spring Boot, Drools. 🐱‍👤
 - ⚡ Fun fact: Loves Briyani 🍗| SuperCell Fan 🎮 | Loves Driving 🏎 🏍
   <br>
 
